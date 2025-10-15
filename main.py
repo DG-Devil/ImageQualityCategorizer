@@ -89,9 +89,9 @@ def analyze_images(file_list):
         cat = categorize_image(w, h)
         blurry = is_blurry(path)
         if blurry:
-            cat += " (Blurry)"
+            cat += " - BLURRY"
         else:
-            cat += " (Clear)"
+            cat += " - CLEAR"
         categorized.setdefault(cat, []).append((os.path.basename(path), path))      
 
     show_results()
