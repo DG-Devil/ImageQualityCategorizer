@@ -17,6 +17,7 @@ You can also download categorized images as ZIP files directly from the app!
 - Python 3.13  
 - Tkinter  
 - Pillow (PIL)
+- Open-CV
 - CSV, OS, Shutil
 
 ---
