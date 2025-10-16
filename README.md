@@ -23,7 +23,7 @@ You can also download categorized images as ZIP files directly from the app!
 ---
 
 
-## Install
+## ⬇️ Install
 - Releases -> Latest Version
 
 ---
