@@ -1,6 +1,7 @@
 # 📸 Image Quality Categorizer
 
 A simple desktop app built using Python and Tkinter that categorizes your images by quality (Low, 360p, 480p, 720p, 1080p+).  
+And it also tells the Quality rate of your images
 You can also download categorized images as ZIP files directly from the app!
 
 ---
