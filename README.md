@@ -22,6 +22,13 @@ You can also download categorized images as ZIP files directly from the app!
 
 ---
 
+
+## Install
+- Releases -> Latest Version
+
+---
+
+
 ## ⚙️ Run It Locally
 1. Clone this repository:
    ```bash
