@@ -7,7 +7,7 @@ You can also download categorized images as ZIP files directly from the app!
 ---
 
 ## ✨ Features
-- Analyze images and group them based on pixel resolution  
+- Analyze images and group them based on quality(blur or clear) and pixel resolution  
 - Download categorized images in ZIP format  
 - Automatically exports a CSV quality report  
 - Clean, modern Tkinter UI  
